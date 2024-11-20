@@ -1,1 +1,2 @@
-# Facial-Recognition-GUI--Open-Source-Project-
+# Testing Facial Recognition with different images and folders.
+We did the Initial testing with the main open source program we used. The main open source-program was able to detect people like Obama and Biden. We were able to add specific people of our choosing as well. We just had to make sure we follow the same protocol, which is two separate photos of the exact person. When I tested the command of the open source program, it was able to detect all of the pictures of each specific person. This was all done in the terminal. 
