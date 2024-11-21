@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Facial Recognition App</title>
+    <link rel="stylesheet" href="/static/style.css">
+    <!-- Apple-like font -->
+    <link href="https://fonts.googleapis.com/css2?family=Helvetica:wght@400;700&display=swap" rel="stylesheet">
+</head>
+<body>
+    <header>
+        <div class="container">
+            <h1>Facial Recognition App</h1>
+            <p>Seamlessly manage your known and unknown person uploads.</p>
+        </div>
+    </header>
+    <main class="container">
+        <section class="upload-section">
+            <h2>Upload Known Person</h2>
+            <form action="/upload_known" method="post" enctype="multipart/form-data">
+                <input type="file" name="known_image" class="upload-input">
+                <button type="submit" class="btn">Upload</button>
+            </form>
+        </section>
+        <section class="upload-section">
+            <h2>Upload Unknown Person</h2>
+            <form action="/upload_unknown" method="post" enctype="multipart/form-data">
+                <input type="file" name="unknown_image" class="upload-input">
+                <button type="submit" class="btn">Upload</button>
+            </form>
+        </section>
+    </main>
+    <footer class="footer">
+        <p>&copy; 2024 Facial Recognition App. All rights reserved.</p>
+    </footer>
+</body>
+</html>
+
