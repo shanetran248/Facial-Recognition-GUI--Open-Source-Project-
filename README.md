@@ -9,7 +9,7 @@ Step 1: Install Python 3.6+
 Ensure that Python 3.6 or later is installed on your system. 
 To verify that Python is installed, open a terminal(or command prompt) and run: 
 
-    python --verion 
+    python --version 
   
 
 Step 2: Install Homebrew
