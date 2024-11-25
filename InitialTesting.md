@@ -3,5 +3,6 @@ We did the Initial testing with the main open source project we used. The main o
 
 Link to the main open source project we used: https://github.com/ageitgey/face_recognition 
 This is an image of what happened when I did my testing and ran the face_recognition command in the CLI.
+<p><br></p>
 <img width="567" alt="Screenshot 2024-11-20 at 10 37 18 AM" src="https://github.com/user-attachments/assets/0d1b181e-9fa8-4405-89c8-f9cf56416a84">
 
