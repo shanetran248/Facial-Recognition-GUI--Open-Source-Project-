@@ -101,6 +101,19 @@ _________________________
 
 faceapp.py Configuration 
 
+1. Create project folder in a directory of your choosing
+
+-Our team created the project folder in our user directories for ease of access
+
+2. Download GUI program files
+
+-Download or create the programs to your machine 
+
+3. Move program files
+   
+-Move index.hmtl and result.hmtl into a folder titled "templates" within your main program folder 
+-Move style.css into a folder titled "static" within your main program folder 
+-Move faceapp.py into the main program folder (but do NOT put it into any secondary folder)
 
 
 
