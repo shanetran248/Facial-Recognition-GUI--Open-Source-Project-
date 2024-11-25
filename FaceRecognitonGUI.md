@@ -9,3 +9,12 @@ The GUI front end is compromised of a framework including 5 different folders- S
 <p><br></p>
 <p><strong>Static Folder</strong></p>
 The stacic folder contains the style.css file. The style.css program is a css script that gives the GUI its apperance. Its user a very neurtal color palette, inspired by the simple palette of the Apple website. The css program also sets the color's for all the feedback buttons as well. While not neccessary for the GUI to run, our team wanted to provide a good user experience and a visually appealing website does just that.
+<p><br></p>
+<p><strong>Templates Folder</strong></p>
+The templates folder contains the html code for the site. Similar to the style.css program, the html program was created to provide a good user expereince. Howeve,the html code is more important as it provides the design "structure" for the entire site. Without it, all that would display would be unappealing black text.
+<p><br></p>
+<p><strong>Known_Persons</strong></p>
+The Known_Persons folder stores the user input data for when a user provides an image for a person they want to log. The faceapp.py program reads this folder during execution. Additionally, this folder saves the user image so theres no need for a user to reenter a photo multiple times. Lastly, the program code has protections to not accept anything other that image files for this field.
+<p><br></p>
+<p><strong>Unknown_Persons</strong></p>
+The unknown_persons folder store the user input data for when a user provides an image for a person the want to log as unknown. The faceapp.py program reads this folder during excecution, The program has protections to not accept anything other than image files for this field.
