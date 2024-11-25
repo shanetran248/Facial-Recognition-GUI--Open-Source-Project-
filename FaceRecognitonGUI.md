@@ -8,7 +8,7 @@ We created code that deploys a front end website. The website serves as a GUI to
 The GUI front end is compromised of a framework including 5 different folders- Static, Templates, Known_Persons, Unknown_Persons, and faceapp.py.
 <p><br></p>
 <p><strong>Static Folder</strong></p>
-The stacic folder contains the style.css file. The style.css program is a css script that gives the GUI its apperance. Its user a very neurtal color palette, inspired by the simple palette of the Apple website. The css program also sets the color's for all the feedback buttons as well. While not neccessary for the GUI to run, our team wanted to provide a good user experience and a visually appealing website does just that.
+The static folder contains the style.css file. The style.css program is a css script that gives the GUI its apperance. Its user a very neurtal color palette, inspired by the simple palette of the Apple website. The css program also sets the color's for all the feedback buttons as well. While not neccessary for the GUI to run, our team wanted to provide a good user experience and a visually appealing website does just that.
 <p><br></p>
 <p><strong>Templates Folder</strong></p>
 The templates folder contains the html code for the site. Similar to the style.css program, the html program was created to provide a good user expereince. Howeve,the html code is more important as it provides the design "structure" for the entire site. Without it, all that would display would be unappealing black text.
