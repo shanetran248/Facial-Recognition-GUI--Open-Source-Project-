@@ -115,6 +115,9 @@ faceapp.py Configuration
 - Move style.css into a folder titled "static" within your main program folder 
 - Move faceapp.py into the main program folder (but do NOT put it into any secondary folder)
 
+4.(Optional) python import 
+
+- You may need to import python3 into your home directory (or whatever directory you plan on deploying this from) so that you can more easily deploy faceapp.py from your terminal 
 
 
 
