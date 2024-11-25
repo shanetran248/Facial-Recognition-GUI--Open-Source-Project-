@@ -97,7 +97,9 @@ Troubleshooting
 - Check that dlib and face_recognition were installed in the same Python environment you're using.
 - Run python3 -m pip list to confirm that dlib and face_recognition are listed.
 
+
 faceapp.py Configuration 
+_________________________
 
 
 
