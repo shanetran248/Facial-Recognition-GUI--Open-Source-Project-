@@ -6,3 +6,7 @@ We created code that deploys a front end website. The website serves as a GUI to
 <img width="1369" alt="Screenshot 2024-11-20 at 11 37 52 AM" src="https://github.com/user-attachments/assets/26bd999b-103d-4bcd-9eac-ad310e26c0ad">
 <p><br></p>
 The GUI front end is compromised of a framework including 5 different folders- Static, Templates, Known_Persons, Unknown_Persons, and faceapp.py.
+
+<p><strong>Static Folder</strong></p>
+<p><br></p>
+The stacic folder contains the style.css file. The style.css program is a css script that gives the GUI its apperance. Its user a very neurtal color palette, inspired by the simple palette of the Apple website. The css program also sets the color's for all the feedback buttons as well. While not neccessary for the GUI to run, our team wanted to provide a good user experience and a visually appealing website does just that.
