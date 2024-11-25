@@ -1,7 +1,7 @@
 # Testing Facial Recognition with different images and folders.
 We did the initial testing with facial recognition open source project. 
 <p><br></p>
-The open source-program setup instructions recommended starting out with clear, non-cluttered images. They used photographs of Joe Biden and Barrack Obama for their examples- we got started by doing the same.
+The open source-program setup instructions recommended starting out with clear, non-cluttered images. They used photographs of Joe Biden and Barack Obama for their examples- we got started by doing the same.
 <p><br></p>
 We then transitioned to adding people of our choosing- we just had to make sure we followed the same protocol, which is two separate pictures of the exact person. 
 <p><br></p>
