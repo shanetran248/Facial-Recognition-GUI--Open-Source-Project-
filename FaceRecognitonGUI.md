@@ -18,3 +18,6 @@ The Known_Persons folder stores the user input data for when a user provides an 
 <p><br></p>
 <p><strong>Unknown_Persons</strong></p>
 The unknown_persons folder store the user input data for when a user provides an image for a person the want to log as unknown. The faceapp.py program reads this folder during excecution, The program has protections to not accept anything other than image files for this field.
+<p><br></p>
+<p><strong>faceapp.py</strong></p>
+faceapp.py is the main program. It imports the tools detailed in our tool section and is the catalyst for the GUI. This application is not store in a subfolder in the program structure
