@@ -76,9 +76,9 @@ Step 6: Install face_recognition
 
 Once dlib is installed, install the face_recognition library. 
 
-  1. Use pip to install:
+  1. Use pip3 to install:
 
-    pip install face_recognition
+    pip3 install face_recognition
 
   2. Verify the installation:
      
