@@ -101,7 +101,7 @@ Troubleshooting
 
 _________________________
 
-faceapp.py Configuration 
+faceapp.py Configuration (This is new configuraiton for our front-end)
 
 1. Create project folder in a directory of your choosing
 
