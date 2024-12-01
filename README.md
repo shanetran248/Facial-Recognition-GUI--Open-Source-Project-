@@ -119,7 +119,11 @@ faceapp.py Configuration
 <p><br></p>
 4.(Optional) python import 
 
-- You may need to import python3 into your home directory (or whatever directory you plan on deploying this from) so that you can more easily deploy faceapp.py from your terminal 
+- You may need to import python3 into your home directory (or whatever directory you plan on deploying this from) so that you can more easily deploy faceapp.py from your terminal
+
+.zshrc is the default shell for macOS. And you'd need to replace PATH with the saved location of python3 on your macOS system
+echo 'export PATH=~/:$PATH' >> ~/.zshrc
+source ~/.zshrc
 
 
 
