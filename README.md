@@ -116,7 +116,7 @@ faceapp.py Configuration
 - Move faceapp.py into the main program folder (but do NOT put it into any secondary folder)
 <p><br></p>
   <img width="233" alt="Screenshot 2024-12-01 at 3 07 24 PM" src="https://github.com/user-attachments/assets/88d5876a-e97d-464d-a2d8-036e1e269641">
-
+<p><br></p>
 4.(Optional) python import 
 
 - You may need to import python3 into your home directory (or whatever directory you plan on deploying this from) so that you can more easily deploy faceapp.py from your terminal 
