@@ -149,6 +149,15 @@ To deploy the application, complete the following
 <img width="1704" alt="Screenshot 2024-12-01 at 3 05 27 PM" src="https://github.com/user-attachments/assets/615f8afe-e7e6-4d91-9a74-b0723535754e">
 *The copyright isn't real we just thought itd be fun*
 
+________________________
+
+Notables 
+
+While the frontend is runnning and being interacted with, the command line is capturing the http requests 
+<p><br></p>
+<img width="1205" alt="Screenshot 2024-12-01 at 3 11 11 PM" src="https://github.com/user-attachments/assets/cd853325-2369-45b7-9de5-51dbeaa83467">
+
+
 
 
 
