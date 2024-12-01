@@ -18,7 +18,12 @@
 - Being Respectful to everyone regardless of race, ethnicity, gender, sexual orientation, ability, or any other aspect of identity.
 - Showing kindness to everyone
 - Allowing constructive criticism
+- Communicating Openly
 ### **Unacceptable Behaviors**
 - Discrimination
 - Harassment
 - Sharing private information
+- Trolling 
+
+## References
+Our code of conduct was created with the help of https://www.contributor-covenant.org/
