@@ -131,6 +131,24 @@ echo 'export PATH=~/:$PATH' >> ~/.zshrc
 <p><br></p>
 source ~/.zshrc
 
+_______________________
+
+Deployment 
+
+Once faceapp.py configuariton is complete, the project is ready to be deployed 
+
+To deploy the application, complete the following 
+
+- Open the macOS terminal
+- Switch into your project directory: 'cd my_project'
+- Run 'python3 faceapp.py'
+- Copy and paste the output http address into any browser
+<p><br></p>
+<img width="1122" alt="Screenshot 2024-12-01 at 3 08 54 PM" src="https://github.com/user-attachments/assets/dcbb064e-1c3c-452d-ba0f-6d2a89557834">
+<p><br></p>
+<img width="1704" alt="Screenshot 2024-12-01 at 3 05 27 PM" src="https://github.com/user-attachments/assets/615f8afe-e7e6-4d91-9a74-b0723535754e">
+
+
 
 
 
