@@ -114,6 +114,8 @@ faceapp.py Configuration
 - Move index.hmtl and result.hmtl into a folder titled "templates" within your main program folder 
 - Move style.css into a folder titled "static" within your main program folder 
 - Move faceapp.py into the main program folder (but do NOT put it into any secondary folder)
+<p><br></p>
+<p><br></p>
   <img width="233" alt="Screenshot 2024-12-01 at 3 07 24 PM" src="https://github.com/user-attachments/assets/88d5876a-e97d-464d-a2d8-036e1e269641">
 
 4.(Optional) python import 
