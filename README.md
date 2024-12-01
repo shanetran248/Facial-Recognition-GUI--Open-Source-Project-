@@ -124,6 +124,7 @@ faceapp.py Configuration
 .zshrc is the default shell for macOS. And you'd need to replace PATH with the saved location of python3 on your macOS system
 
 *Example of terminal commands to import python3 to home*
+<p><br></p>
 echo 'export PATH=~/:$PATH' >> ~/.zshrc
 <p><br></p>
 source ~/.zshrc
