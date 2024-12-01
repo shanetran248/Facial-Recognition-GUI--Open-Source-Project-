@@ -1,4 +1,6 @@
-Installation
+Link to the main open source project we used: https://github.com/ageitgey/face_recognition
+
+Installation (Based off of guidance from the parent project)
 
 Requirements: 
 - Python 3.6 (or later) 
