@@ -6,4 +6,9 @@
 - We believe that the inclusive environment aspect will allow growth and improvement of the project.
 
 # Our Responsibilities
-
+- Foster Inclusivity
+- Acknowledging Contributions
+- Handling Disagreements
+- Encouraging Collaboration
+- Ensuring Transparency
+- Ensuring Good Code Quality
