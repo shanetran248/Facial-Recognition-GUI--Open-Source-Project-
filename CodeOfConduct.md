@@ -26,4 +26,4 @@
 - Trolling 
 
 ## References
-Our code of conduct was created with the help of https://www.contributor-covenant.org/
+Our code of conduct was created and inspired with the help of https://www.contributor-covenant.org/
