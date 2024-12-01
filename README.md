@@ -147,7 +147,7 @@ To deploy the application, complete the following
 <img width="1122" alt="Screenshot 2024-12-01 at 3 08 54 PM" src="https://github.com/user-attachments/assets/dcbb064e-1c3c-452d-ba0f-6d2a89557834">
 <p><br></p>
 <img width="1704" alt="Screenshot 2024-12-01 at 3 05 27 PM" src="https://github.com/user-attachments/assets/615f8afe-e7e6-4d91-9a74-b0723535754e">
-
+*The copyright isn't real we just thought itd be fun*
 
 
 
