@@ -2,7 +2,7 @@ Link to the main open source project we used: https://github.com/ageitgey/face_r
 
 Our goal is to utilize facial recognition technology in a responsible, ethical, and secure manner. Our main goal with this project was to implement a convenient front end of a website for the existing facial recognition software.
 
-The original facial recognition software was run in the terminal by adding images to a folder of known people and then adding the picture of the person you want identified to the unknown folder. Then using the face_recognition command it would identify if the unknown image is one of the people in the folder of known people. There are many editable features like changing the tolernce of the recognition to make it more or less leniant.
+The original facial recognition software was run in the terminal by adding images to a folder of known people and then adding the picture of the person you want identified to the unknown folder. Then using the face_recognition command it would identify if the unknown image is one of the people in the folder of known people. There are many editable features like changing the tolerance of the recognition to make it more or less leniant.
 
 Installation (Based off of guidance from the parent project)
 
