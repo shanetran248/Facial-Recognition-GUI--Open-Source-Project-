@@ -8,7 +8,7 @@ We created code that deploys a front end website for the Open-Source Facial Reco
 The GUI front end is compromised of a framework including 5 different folders- Static, Templates, Known_Persons, Unknown_Persons, and faceapp.py.
 <p><br></p>
 <p><strong>Static</strong></p>
-The static folder contains the style.css file. The style.css program is a css script that gives the GUI its apperance. Its user a very neurtal color palette, inspired by the simple palette of the Apple website. The css program also sets the color's for all the feedback buttons as well. While not neccessary for the GUI to run, our team wanted to provide a good user experience and a visually appealing website does just that.
+The static folder contains the style.css file. The style.css program is a css script that gives the GUI its apperance. Its user a very neutral color palette, inspired by the simple palette of the Apple website. The css program also sets the color's for all the feedback buttons as well. While not neccessary for the GUI to run, our team wanted to provide a good user experience and a visually appealing website does just that.
 <p><br></p>
 <p><strong>Templates</strong></p>
 The templates folder contains two programs, index.html and result.html. Similar to the style.css program, the html programs were created to provide a good user expereince. Howeve,the html code is more important as it provides the design "structure" for the entire site. Without it, all that would display would be unappealing black text. Index.html provides the structure for the home page and result.html provides the structure for the results page.
@@ -20,4 +20,4 @@ The Known_Persons folder stores the user input data for when a user provides an 
 The unknown_persons folder store the user input data for when a user provides an image for a person the want to log as unknown. The faceapp.py program reads this folder during excecution, The program has protections to not accept anything other than image files for this field.
 <p><br></p>
 <p><strong>faceapp.py</strong></p>
-faceapp.py is the main program. It imports the tools detailed in our tool section and is the catalyst for the GUI. This application is not store in a subfolder in the program structure
+faceapp.py is the main program. It imports the tools detailed in our tool section and is the catalyst for the GUI. This application is not stored in a subfolder in the program structure
